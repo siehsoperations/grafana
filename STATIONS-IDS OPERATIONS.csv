@@ -1,0 +1,40 @@
+﻿S. #,Regional Office,District Name,Station Name,Sub Station,Civil Work,PASSIVE NETWORK,IP Phone Extension,Hope,MV,RRB,TDP,Ambulance Distribution,WAN Connectivity,15U Rack,UPS-1KVA,SWITCH,AP,Tower(ft),TAS,POWER BANK,TAS SYNC with IMS,CCTV,LCD,PRINTER,IP Phones,Status
+1,Karachi,Karachi East,PIB,,1,1,2756,9,1,2,0,12,LDN,1,1,1,1,120,1,0,1,1,,1,1,Ready
+2,Karachi,Karachi South,Clifton,,1,1,2754,7,1,2,0,10,LDN,1,1,1,1,100,1,0,1,1,,1,1,Ready
+3,Karachi,Karachi West,North Nazimabad,,1,1,2751,13,1,0,0,14,LDN,1,1,1,1,100,1,0,1,1,,1,1,Ready
+4,Karachi,Karachi Central,Ancholi-FB Area,,1,1,2755,13,1,1,0,15,LDN,1,1,1,1,100,1,0,1,1,,1,1,Ready
+5,Karachi,,North Karachi,,1,1,2753,11,1,1,0,13,LDN,1,1,1,1,120,1,0,1,1,,1,1,Ready
+6,Karachi,Korangi,Korangi,,1,1,2757,15,2,3,1,21,LDN,1,1,1,1,100,1,0,1,1,,1,1,Ready
+7,Karachi,Malir,Bin Qasim,,1,1,2750,12,2,1,1,16,LDN,1,1,1,1,80,1,0,1,1,,1,1,Ready
+8,Karachi,Keamari,Baldia Town,,1,1,2752,11,0,0,0,11,LDN,1,1,1,1,80,1,0,1,1,,1,1,Ready
+9,BHAMBORE,Thatta,Makli aka THATTA,,1,1,2807,5,1,2,2,10,LDN,1,1,1,1,150,1,1,1,1,0,0,0,Ready
+10,BHAMBORE,,,Sakro,1,1,2818,5,0,0,0,5,LDN,1,0,1,1,150,1,1,1,1,1,0,1,Ready
+11,BHAMBORE,Sujawal,Sujawal,,1,1,2814,5,1,0,2,8,LDN,1,0,1,1,150,1,1,1,1,0,0,1,Ready
+12,BHAMBORE,,,Bathoro,1,1,0,5,0,0,0,5,LDN,1,1,1,1,150,1,1,1,1,1,1,0,Ready
+13,BHAMBORE,Badin,Badin,,1,1,2806,5,1,0,1,7,LDN,1,1,1,1,60(LDN),1,1,1,1,1,1,1,Ready
+14,BHAMBORE,Tando Muhammad Khan,TMK,,1,1,2830,5,1,0,1,7,LDN,1,1,1,1,60(LDN),1,1,1,1,1,1,1,Ready
+15,BHAMBORE,Mirpur Khas,Mirpur Khas,,1,0,2812,10,1,0,3,14,LDN,1,1,1,1,60(LDN),1,1,1,1,1,1,1,Ready
+16,BHAMBORE,Umerkot,Umer kot,,1,1,0,8,0,0,2,10,LDN,1,1,1,1,0,1,1,1,1,1,1,0,Ready
+17,BHAMBORE,Tharparkar,Mithi,,0,1,0,,,,,0,L.ISP,0,0,1,0,0,1,1,0,1,1,0,1,Operational but Not Ready
+18,BHAMBORE,,,Nagar Parkar,1,1,0,3,0,0,5,8,Supernet,1,1,1,1,0,1,1,1,1,1,1,0,Operational but Not Ready
+19,HYDERABAD,Hyderabad,Hyderabad Station,,1,1,2816,14,1,2,1,18,LDN,1,1,1,1,60(LDN),1,0,1,1,,0,1,Ready
+20,HYDERABAD,Tando Allahyar,Tando Alayar,,1,0,2829,4,1,0,1,6,LDN,0,0,0,1,80(LDN),1,1,1,1,,0,1,Operational but Not Ready
+21,HYDERABAD,Jamshoro,Sehwan,,1,1,2817,5,0,0,5,10,LDN,1,1,1,1,60(LDN),1,1,1,1,,1,1,Operational but Not Ready
+22,HYDERABAD,Matiari,Matiari,,1,1,2828,5,1,0,1,7,LDN,1,1,1,1,0,1,1,1,1,,0,1,Partial Ready
+23,HYDERABAD,Dadu,Dadu,,1,1,0,3,0,0,2,5,LDN,1,1,1,1,0,1,1,1,1,,0,1,Partial Ready
+24,HYDERABAD,,,Mehar,0,0,0,2,0,0,2,4,LDN,0,0,0,0,0,1,1,1,0,,0,0,Ready
+25,HYDERABAD,Shaheed Benazirabad,SBA aka Shaheed Benazirabad,,0,0,2822,5,1,0,2,8,LDN,0,0,0,0,0,1,1,1,1,,1,1,Ready
+26,HYDERABAD,,,Qazi Ahmed,1,1,2811,5,0,0,1,6,LDN,1,1,1,1,80(LDN),1,1,1,1,,1,1,Ready
+27,HYDERABAD,Naushahro Feroze,Naushahro Feroze,,1,1,2827,5,0,0,1,6,LDN,1,1,1,1,80(LDN),1,1,1,1,,0,1,Ready
+28,HYDERABAD,Sanghar,Sanghar,,1,1,2824,4,0,0,4,8,LDN,1,1,1,1,0,1,1,1,1,,1,1,Ready
+29,SUKKUR,Sukkur,Sukkur Station,,1,1,2901,11,1,0,2,14,LDN,1,1,1,1,0,1,1,1,1,,1,1,Ready
+30,SUKKUR,Ghotki,Mirpur Mathelo,,1,1,2906,8,0,0,0,8,LDN,1,1,1,1,100(LDN),1,1,1,1,,0,1,Ready
+31,SUKKUR,Khairpur,Khairpur aka Kahirpur2,,0,1,2922,6,1,0,2,9,LDN,1,1,1,1,60(LDN),1,1,1,1,,0,1,Ready
+32,SUKKUR,,,Hingorja,0,1,2923,5,0,0,0,5,LDN,1,1,1,1,80(LDN),1,1,1,1,,0,1,Ready
+33,SUKKUR,Larkana,Larkano,,1,1,2921,13,1,0,4,18,LDN,1,1,1,1,0,1,1,1,1,,1,1,Ready
+34,SUKKUR,Jacobabad,Jacobabad,,1,1,2909,6,1,0,2,9,LDN,1,1,1,1,0,1,1,1,1,,0,1,Ready
+35,SUKKUR,Kashmore,Kandhkot,,1,1,2908,5,1,1,2,9,LDN,1,1,1,1,80(LDN),1,1,1,1,,0,1,Ready
+36,SUKKUR,,,Kashmore,1,1,0,4,0,1,0,5,PTCL,1,1,1,1,0,1,1,1,1,,0,0,Ready
+37,SUKKUR,Qambar Shahdadkot,Shahdad Kot,,1,1,2907,3,1,0,3,7,LDN,1,1,1,1,60(LDN),1,1,1,1,,1,1,Ready
+38,SUKKUR,,,Qambar,0,1,0,3,0,0,2,5,PTCL,1,1,1,1,0,1,1,1,1,,0,0,Ready
+39,SUKKUR,Shikarpur,Shikarpur,,1,1,2910,7,1,0,0,8,LDN,1,1,1,1,40(LDN),1,1,1,1,,1,1,Ready
