@@ -1,6 +1,6 @@
 ﻿S. #,Regional Office,District Name,Station Name,Sub Station,Civil Work,PASSIVE NETWORK,IP Phone Extension,Hope,MV,RRB,TDP,Ambulance Distribution,WAN Connectivity,15U Rack,UPS-1KVA,SWITCH,AP,Tower(ft),TAS,POWER BANK,TAS SYNC with IMS,CCTV,LCD,PRINTER,IP Phones,Status
 1,Karachi,Karachi East,PIB,,1,1,2756,9,1,2,0,12,LDN,1,1,1,1,120,1,0,1,1,,1,1,Ready
-2,Karachi South,Clifton,,1,1,2754,7,1,2,0,10,LDN,1,1,1,1,100,1,0,1,1,,1,1,Ready
+2,Karachi,Karachi South,Clifton,,1,1,2754,7,1,2,0,10,LDN,1,1,1,1,100,1,0,1,1,,1,1,Ready
 3,Karachi,Karachi West,North Nazimabad,,1,1,2751,13,1,0,0,14,LDN,1,1,1,1,100,1,0,1,1,,1,1,Ready
 4,Karachi,Karachi Central,Ancholi-FB Area,,1,1,2755,13,1,1,0,15,LDN,1,1,1,1,100,1,0,1,1,,1,1,Ready
 5,Karachi,,North Karachi,,1,1,2753,11,1,1,0,13,LDN,1,1,1,1,120,1,0,1,1,,1,1,Ready
